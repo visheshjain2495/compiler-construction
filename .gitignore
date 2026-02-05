@@ -1,0 +1,3 @@
+# Ignore all exp executables (but not .c files)
+exp*
+!*.c
