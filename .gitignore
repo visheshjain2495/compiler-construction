@@ -1,3 +1,5 @@
 # Ignore all exp executables (but not .c files)
 exp*
 !*.c
+!*.l
+lex.yy.c
